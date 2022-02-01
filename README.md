@@ -1,0 +1,1 @@
+# react-typescript-architecture-template
